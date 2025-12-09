@@ -8,7 +8,7 @@ She is currently a Master's student at the National University of Defense Techno
 Email: huangmail153@163.com
 
 #### Education
-M.E., Management Science and Engineering, National University of Defense Technology, 2023—Present.
+M.E., Management Science and Engineering, National University of Defense Technology, 2023—Present.\
 B.E., Wuhan University of Technology, 2019—2023.
 
 #### Research Interests
