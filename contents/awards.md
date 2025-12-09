@@ -1,5 +1,4 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
+- Second Prize, 21st "Huawei Cup" China Postgraduate Mathematical Contest in Modeling, 2024
+- First Prize, Military Mathematical Modeling Contest, 2023
+- Outstanding Freshman Scholarship, University Level

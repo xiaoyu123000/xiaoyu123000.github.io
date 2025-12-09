@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/xiaoyu123000)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+She is currently a Master's student at the National University of Defense Technology (NUDT).
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: huangmail153@163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Management Science and Engineering, National University of Defense Technology, 2023—Present.
+B.E., Wuhan University of Technology, 2019—2023.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Calsal Discovery, Bayesian Network.
 
